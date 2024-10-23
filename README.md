@@ -1,5 +1,6 @@
 ## About me
-Hi My name is Apist Kittiruangaram or you can call me Oat
+Hi My name is Apist Kittiruangaram or you can call me Oat.
+
 はじめまして、私の名前はアピシットです。
 - 🔭 Currently focus in Frontend development.
 - 🌱 Actively learn more about website and application development.
