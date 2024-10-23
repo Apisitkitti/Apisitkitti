@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning in Frontend development.
 - ⚡ Fun fact: Now, I am very hungry
 
-
-
-
-![React](react?style=for-the-badge&logo=GitHub&logoColor=blue)
-
 Thank for visiting in my Github 🤗🤗
 
 <!--
