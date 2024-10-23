@@ -1,7 +1,8 @@
 ## About me
 Hi My name is Apist Kittiruangaram or you can call me Oat
-- 🔭 I’m currently working in the world of code.
-- 🌱 I’m currently learning in Frontend development.
+はじめまして、私の名前はアピシットです。
+- 🔭 Currently focus in Frontend development.
+- 🌱 Actively learn more about website and application development.
 - ⚡ Fun fact: Now, I am very hungry
 
 Thank for visiting in my Github 🤗🤗
