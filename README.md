@@ -2,7 +2,7 @@
 - 🔭 I’m currently working in the world of code.
 - 🌱 I’m currently learning in Frontend development.
 - ⚡ Fun fact: Now, I am very hungry
-  Thank for visiting in my Github 🤗🤗
+Thank for visiting in my Github 🤗🤗
 
 <!--
 **Apisitkitti/Apisitkitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
